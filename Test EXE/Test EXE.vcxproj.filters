@@ -23,4 +23,9 @@
       <UniqueIdentifier>{c972972b-d1ca-4303-bcf0-8e9fda7d6187}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\main.cpp">
+      <Filter>Archivos de implementación</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

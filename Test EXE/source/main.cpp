@@ -1,10 +1,15 @@
+// autor: Erik
+#include "windows.h"
 
 
-
-
-
-
-int main() {
-
+INT WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
+	PSTR lpCmdLine, INT nCmdShow)
+{
 	return 0;
 }
+
+//
+//int main() {
+//
+//	return 0;
+//}
