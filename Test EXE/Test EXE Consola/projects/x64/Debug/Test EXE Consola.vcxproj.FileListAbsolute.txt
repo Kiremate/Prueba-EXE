@@ -1,2 +1,3 @@
 C:\Users\Alumno\Desktop\Proyectos\Prueba-EXE\Test EXE Consola\x64\Debug\Test EXE Consola.exe
 C:\Users\Alumno\Desktop\Proyectos\Prueba-EXE\Test EXE Consola\projects\x64\Debug\Test EXE Consola.exe
+C:\Users\Alumno\Desktop\Prueba-EXE\Test EXE\Test EXE Consola\projects\x64\Debug\Test EXE Consola.exe

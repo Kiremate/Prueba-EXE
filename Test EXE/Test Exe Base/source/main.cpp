@@ -8,8 +8,4 @@ INT WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 	return 0;
 }
 
-//
-//int main() {
-//
-//	return 0;
-//}
+

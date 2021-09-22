@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test EXE Consola", "Test EXE Consola.vcxproj", "{EB844702-99C0-4220-88D6-5F790A9E1876}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Biblioteca_Estatica", "..\Biblioteca_Estatica\Biblioteca_Estatica.vcxproj", "{57BA4A15-26ED-45EC-B66E-86A45FC3D21A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -15,6 +17,10 @@ Global
 		{EB844702-99C0-4220-88D6-5F790A9E1876}.Debug|x64.Build.0 = Debug|x64
 		{EB844702-99C0-4220-88D6-5F790A9E1876}.Release|x64.ActiveCfg = Release|x64
 		{EB844702-99C0-4220-88D6-5F790A9E1876}.Release|x64.Build.0 = Release|x64
+		{57BA4A15-26ED-45EC-B66E-86A45FC3D21A}.Debug|x64.ActiveCfg = Debug|x64
+		{57BA4A15-26ED-45EC-B66E-86A45FC3D21A}.Debug|x64.Build.0 = Debug|x64
+		{57BA4A15-26ED-45EC-B66E-86A45FC3D21A}.Release|x64.ActiveCfg = Release|x64
+		{57BA4A15-26ED-45EC-B66E-86A45FC3D21A}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

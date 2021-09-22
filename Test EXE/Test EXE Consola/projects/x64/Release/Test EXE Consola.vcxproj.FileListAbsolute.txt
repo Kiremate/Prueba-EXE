@@ -1,1 +1,2 @@
 C:\Users\Alumno\Desktop\Proyectos\Prueba-EXE\Test EXE Consola\projects\x64\Release\Test EXE Consola.exe
+C:\Users\Alumno\Desktop\Prueba-EXE\Test EXE\Test EXE Consola\projects\x64\Release\Test EXE Consola.exe
