@@ -1,6 +1,6 @@
 ﻿  main.cpp
-  Previous IPDB not found, fall back to full compilation.
-  Generando código
-  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Generación de código finalizada
-  Test EXE Consola.vcxproj -> C:\Users\Alumno\Desktop\Prueba-EXE\Test EXE\Test EXE Consola\projects\x64\Release\Test EXE Consola.exe
+main.obj : error LNK2001: símbolo externo "public: virtual __cdecl sf::Window::~Window(void)" (??1Window@sf@@UEAA@XZ) sin resolver
+main.obj : error LNK2001: símbolo externo "public: __cdecl sf::Window::Window(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (??0Window@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z) sin resolver
+main.obj : error LNK2001: símbolo externo "public: __cdecl sf::String::String(char const *,class std::locale const &)" (??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) sin resolver
+main.obj : error LNK2001: símbolo externo "public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (??0VideoMode@sf@@QEAA@III@Z) sin resolver
+C:\Users\Alumno\Desktop\Prueba-EXE\Test EXE\Test EXE Consola\projects\x64\Release\Test EXE Consola.exe : fatal error LNK1120: 4 externos sin resolver

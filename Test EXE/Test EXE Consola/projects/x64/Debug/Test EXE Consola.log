@@ -1,2 +1,2 @@
 ﻿  main.cpp
-  Test EXE Consola.vcxproj -> C:\Users\Alumno\Desktop\Prueba-EXE\Test EXE\Test EXE Consola\projects\x64\Debug\Test EXE Consola.exe
+LINK : fatal error LNK1104: no se puede abrir el archivo 'sfml-main-d.lib'
